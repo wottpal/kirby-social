@@ -1,0 +1,13 @@
+.kirby-input-before {
+  padding-left: 2px !important;
+}
+.kirby-input-before span {
+  position: relative;
+  overflow: hidden;
+  height: 2em;
+}
+.kirby-input-before span img {
+  height: 100%;
+  border-radius: 2px;
+  /* width: 100%; */
+}
